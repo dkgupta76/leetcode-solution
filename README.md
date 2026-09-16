@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/dkgupta76/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/dkgupta76/leetcode-solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dkgupta76/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/dkgupta76/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0165-compare-version-numbers](https://github.com/dkgupta76/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/dkgupta76/leetcode-solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/dkgupta76/leetcode-solution/tree/master/0709-to-lower-case) |
