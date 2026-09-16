@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/dkgupta76/leetcode-solution/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
