@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dkgupta76/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/dkgupta76/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dkgupta76/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkgupta76/leetcode-solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dkgupta76/leetcode-solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dkgupta76/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dkgupta76/leetcode-solution/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dkgupta76/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
