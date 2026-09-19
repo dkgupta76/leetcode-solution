@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dkgupta76/leetcode-solution/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/dkgupta76/leetcode-solution/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dkgupta76/leetcode-solution/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/dkgupta76/leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkgupta76/leetcode-solution/tree/master/0001-two-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dkgupta76/leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
