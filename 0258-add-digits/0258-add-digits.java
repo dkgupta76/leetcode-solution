@@ -4,3 +4,5 @@ class Solution {
         return 1 + (num - 1) % 9;
     }
 }
+
+//  my first approch is more specifics and best ways to understand to every new one
