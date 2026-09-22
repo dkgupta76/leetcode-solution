@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/dkgupta76/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dkgupta76/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/dkgupta76/leetcode-solution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/dkgupta76/leetcode-solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/dkgupta76/leetcode-solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dkgupta76/leetcode-solution/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dkgupta76/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dkgupta76/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkgupta76/leetcode-solution/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/dkgupta76/leetcode-solution/tree/master/0202-happy-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dkgupta76/leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dkgupta76/leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
