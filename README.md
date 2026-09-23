@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/dkgupta76/leetcode-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dkgupta76/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dkgupta76/leetcode-solution/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/dkgupta76/leetcode-solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0680-valid-palindrome-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dkgupta76/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dkgupta76/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dkgupta76/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dkgupta76/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/dkgupta76/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/dkgupta76/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dkgupta76/leetcode-solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dkgupta76/leetcode-solution/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dkgupta76/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
