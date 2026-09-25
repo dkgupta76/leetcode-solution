@@ -22,3 +22,5 @@ class Solution {
 
 //  here this is using of hashmap ,, this concept are new for me but i do as soon as posible ,, same logic for using two loop but time complexity are n2 but these happen brutal force techniques 
     
+
+    //  one have also as a brutal force which have time complexity is O(n2)
