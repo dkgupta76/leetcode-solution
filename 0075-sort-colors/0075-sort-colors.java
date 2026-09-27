@@ -27,3 +27,6 @@ class Solution {
         }
     }
 }
+
+
+// here the used of the three (i,j,k) which have showing the pointer techniques plaese see thse quetion once agains ?
