@@ -6,14 +6,9 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for (char ch : s.toCharArray()) {
-
-            // Opening brackets
             if (ch == '(' || ch == '[' || ch == '{') {
                 stack.push(ch);
-            }
-
-            // Closing bracket
-            else {
+            } else {
 
                 if (stack.isEmpty()) {
                     return false;
@@ -38,3 +33,6 @@ class Solution {
         return stack.isEmpty();
     }
 }
+
+
+// This is the core question of the stack and queue and AKTU best question for the asking for the semester in dsa ...
