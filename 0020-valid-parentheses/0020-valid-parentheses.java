@@ -1,3 +1,4 @@
+//  this is core concept of the stacks
 import java.util.Stack;
 
 class Solution {
